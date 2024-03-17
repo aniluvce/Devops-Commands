@@ -1,4 +1,4 @@
-# Apache Tomcat Hands-On
+# Apache Tomcat
 
 Apache Tomcat, often referred to simply as Tomcat, is an open-source web server and servlet container developed by the Apache Software Foundation. It is one of the most popular Java-based web application servers used for deploying and running Java servlets and JavaServer Pages (JSP).
 
